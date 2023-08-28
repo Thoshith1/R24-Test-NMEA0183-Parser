@@ -1,0 +1,5 @@
+issue number 3
+generally when we use size of with structures it calculates entire code(for example int x,char a[];
+it adds 4+1=5 and displays it 
+so it adds two structures
+so we need to calculate sizeof before structure so we can get it seperately
